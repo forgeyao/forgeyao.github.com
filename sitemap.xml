@@ -1,20 +1,58 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://forgeyao.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://forgeyao.github.io/categories/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://forgeyao.github.io/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://forgeyao.github.io/tags/github/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://forgeyao.github.io/tags/hugo/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://forgeyao.github.io/post/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://forgeyao.github.io/tags/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://forgeyao.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://forgeyao.github.io/post/my-post/</loc>
+    <lastmod>2021-03-14T22:36:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
