@@ -16,7 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="ForgeYao" /><meta name="description" content="Photo by Glenn Carstens-Peters on Unsplash Photo by Glenn Carstens-Peters on Unsplash 最近心血来潮，折腾下自己的博客网站。 对比了Jekyll/Hugo/Hexo三种方案，结合三者在GitHub 上 受欢迎程" /><meta name="keywords" content="ForgeYao, Hugo, GitHub" />
+<meta name="author" content="ForgeYao" /><meta name="description" content="博客建站过程" /><meta name="keywords" content="ForgeYao, GitHub, Hugo, Even, Utterances" />
 
 
 
@@ -40,19 +40,19 @@
 
 
 <meta property="og:title" content="搭建博客" />
-<meta property="og:description" content="Photo by Glenn Carstens-Peters on Unsplash Photo by Glenn Carstens-Peters on Unsplash 最近心血来潮，折腾下自己的博客网站。 对比了Jekyll/Hugo/Hexo三种方案，结合三者在GitHub 上 受欢迎程" />
+<meta property="og:description" content="博客建站过程" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://forgeyao.github.io/post/my-post/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2021-03-13T22:36:52&#43;08:00" />
 <meta property="article:modified_time" content="2021-03-14T22:36:52&#43;08:00" />
 
 <meta itemprop="name" content="搭建博客">
-<meta itemprop="description" content="Photo by Glenn Carstens-Peters on Unsplash Photo by Glenn Carstens-Peters on Unsplash 最近心血来潮，折腾下自己的博客网站。 对比了Jekyll/Hugo/Hexo三种方案，结合三者在GitHub 上 受欢迎程"><meta itemprop="datePublished" content="2021-03-13T22:36:52&#43;08:00" />
+<meta itemprop="description" content="博客建站过程"><meta itemprop="datePublished" content="2021-03-13T22:36:52&#43;08:00" />
 <meta itemprop="dateModified" content="2021-03-14T22:36:52&#43;08:00" />
-<meta itemprop="wordCount" content="256">
-<meta itemprop="keywords" content="GitHub,Hugo," /><meta name="twitter:card" content="summary"/>
+<meta itemprop="wordCount" content="381">
+<meta itemprop="keywords" content="GitHub,Hugo,Utterances," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="搭建博客"/>
-<meta name="twitter:description" content="Photo by Glenn Carstens-Peters on Unsplash Photo by Glenn Carstens-Peters on Unsplash 最近心血来潮，折腾下自己的博客网站。 对比了Jekyll/Hugo/Hexo三种方案，结合三者在GitHub 上 受欢迎程"/>
+<meta name="twitter:description" content="博客建站过程"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -153,9 +153,9 @@
 <p>最近心血来潮，折腾下自己的博客网站。</p>
 <p>对比了<a href="https://lexcao.github.io/zh/posts/jekyll-hugo-hexo">Jekyll/Hugo/Hexo</a>三种方案，结合三者在<a href="https://jamstack.org/generators/">GitHub 上 受欢迎程度</a>以及背后的技术语言，最终选用的技术是 Github Pages + Hugo。</p>
 <p>在这两天的使用中，印象最深的还是 Hugo 的修改实时显示，非常方面，刷新页面都成了多此一举。</p>
+<p>评论模块。可选的非常多，对比了 Disqus、Valine、Utterances、Gitalk、Gitment。 最终选择 Utterances。Even 主题已经支持 Utterances，参照<a href="https://blog.eric7.site/2020/01/05/comment/">教程</a>，操作前4步就行，非常简单。</p>
 <p>下面是还需要进一步完善，大部分 Hugo 配置里都支持。</p>
 <ol>
-<li>评论模块</li>
 <li>购买个人域名</li>
 <li>SEO。Sitmap/robots.txt</li>
 <li>Google Analytics 使用</li>
@@ -167,6 +167,7 @@
 <li><a href="https://jamstack.org/generators/">Site Generators</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/57361697">如何利用 GitHub Pages 和 Hugo 轻松搭建个人博客？</a></li>
 <li><a href="https://zhangfelix.medium.com/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2-cbd1d57fcfbf">使用Hugo和GitHub搭建博客</a></li>
+<li><a href="https://blog.eric7.site/2020/01/05/comment/">hugo添加utterances评论功能</a></li>
 </ol>
 
     </div>
@@ -184,12 +185,16 @@
     </span>
   </p>
   
-  
+  <p class="copyright-item">
+    <span class="item-title">许可协议</span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span>
+  </p>
 </div>
 <footer class="post-footer">
       <div class="post-tags">
           <a href="/tags/github/">GitHub</a>
           <a href="/tags/hugo/">Hugo</a>
+          <a href="/tags/utterances/">Utterances</a>
           </div>
       <nav class="post-nav">
         <a class="prev" href="/post/about/">
@@ -207,6 +212,14 @@
   
 
   
+    <script src="https://utteranc.es/client.js"
+            repo="forgeyao/blog-comment"
+            issue-term="pathname"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by utterances.</a></noscript>
 
       </div>
     </main>
