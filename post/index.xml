@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Forge Yao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Mar 2021 22:36:52 +0800</lastBuildDate><atom:link href="http://forgeyao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 22:36:52 +0800</lastBuildDate><atom:link href="http://forgeyao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搭建博客</title>
       <link>http://forgeyao.github.io/post/my-post/</link>
-      <pubDate>Thu, 11 Mar 2021 22:36:52 +0800</pubDate>
+      <pubDate>Sat, 13 Mar 2021 22:36:52 +0800</pubDate>
       
       <guid>http://forgeyao.github.io/post/my-post/</guid>
-      <description>Photo by Glenn Carstens-Peters on Unsplash Photo by Glenn Carstens-Peters on Unsplash 最近心血来潮，折腾下自己的博客网站。 选用的技术是 Github Pages + Hugo。 TODO: 评论模块 购买个人域名 RSS About 参考链接： Jekyll / Hugo / Hexo 比较 Site</description>
+      <description>Photo by Glenn Carstens-Peters on Unsplash Photo by Glenn Carstens-Peters on Unsplash 最近心血来潮，折腾下自己的博客网站。 对比了Jekyll/Hugo/Hexo三种方案，结合三者在GitHub 上 受欢迎程</description>
     </item>
     
   </channel>
