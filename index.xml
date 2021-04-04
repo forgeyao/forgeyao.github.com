@@ -2,27 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forge Yao&#39;s Blog</title>
-    <link>http://forgeyao.github.io/</link>
+    <link>https://forgeyao.github.io/</link>
     <description>Recent content on Forge Yao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Mar 2021 14:07:44 +0800</lastBuildDate><atom:link href="http://forgeyao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 21:11:47 +0800</lastBuildDate><atom:link href="https://forgeyao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【译文】创业公司在社交隔离中机会与风险——用户注意力方法论</title>
+      <link>https://forgeyao.github.io/post/a-framework-for-consumer-attention/</link>
+      <pubDate>Sat, 03 Apr 2021 21:11:47 +0800</pubDate>
+      
+      <guid>https://forgeyao.github.io/post/a-framework-for-consumer-attention/</guid>
+      <description>互联网流量的争夺就是用户注意力的争夺。将注意力形象地分为石头、沙子和水，简单易懂。这也是对当下火热的 Clubhouse 最好解读。</description>
+    </item>
+    
     <item>
       <title>关于</title>
-      <link>http://forgeyao.github.io/post/about/</link>
+      <link>https://forgeyao.github.io/post/about/</link>
       <pubDate>Sun, 14 Mar 2021 14:07:44 +0800</pubDate>
       
-      <guid>http://forgeyao.github.io/post/about/</guid>
+      <guid>https://forgeyao.github.io/post/about/</guid>
       <description>关于我 在广州从事后端开发工作的 IT 男 微信公众号 关于本站使用的技术 GitHub Pages 静态页面生成器：Hugo Hugo 主题：Even 评论系统：Utterances</description>
     </item>
     
     <item>
       <title>搭建博客</title>
-      <link>http://forgeyao.github.io/post/my-post/</link>
+      <link>https://forgeyao.github.io/post/my-post/</link>
       <pubDate>Sat, 13 Mar 2021 22:36:52 +0800</pubDate>
       
-      <guid>http://forgeyao.github.io/post/my-post/</guid>
-      <description>Photo by Glenn Carstens-Peters on Unsplash Photo by Glenn Carstens-Peters on Unsplash 最近心血来潮，折腾下自己的博客网站。 对比了Jekyll/Hugo/Hexo三种方案，结合三者在GitHub 上 受欢迎程</description>
+      <guid>https://forgeyao.github.io/post/my-post/</guid>
+      <description>个人博客搭建过程</description>
     </item>
     
   </channel>
