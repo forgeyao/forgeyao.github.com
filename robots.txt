@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://forgeyao.github.io/sitemap.xml
+Sitemap: https://forgeyao.tech/sitemap.xml

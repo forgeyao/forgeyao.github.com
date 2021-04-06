@@ -1,106 +1,106 @@
-<?xml-stylesheet type="text/xsl" href="https://forgeyao.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://forgeyao.tech/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://forgeyao.github.io/categories/</loc>
+    <loc>https://forgeyao.tech/categories/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/</loc>
+    <loc>https://forgeyao.tech/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/post/</loc>
+    <loc>https://forgeyao.tech/post/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/tags/</loc>
+    <loc>https://forgeyao.tech/tags/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/post/a-framework-for-consumer-attention/</loc>
+    <loc>https://forgeyao.tech/post/a-framework-for-consumer-attention/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/tags/%E5%88%9B%E4%B8%9A/</loc>
+    <loc>https://forgeyao.tech/tags/%E5%88%9B%E4%B8%9A/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
+    <loc>https://forgeyao.tech/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/categories/%E8%AF%91%E6%96%87/</loc>
+    <loc>https://forgeyao.tech/categories/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/post/about/</loc>
+    <loc>https://forgeyao.tech/post/about/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/tags/blog/</loc>
+    <loc>https://forgeyao.tech/tags/blog/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/tags/github/</loc>
+    <loc>https://forgeyao.tech/tags/github/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/tags/hugo/</loc>
+    <loc>https://forgeyao.tech/tags/hugo/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/tags/utterances/</loc>
+    <loc>https://forgeyao.tech/tags/utterances/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://forgeyao.tech/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://forgeyao.github.io/post/my-post/</loc>
+    <loc>https://forgeyao.tech/post/my-post/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
