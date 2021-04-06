@@ -49,7 +49,7 @@
 <meta itemprop="name" content="搭建博客">
 <meta itemprop="description" content="博客建站过程"><meta itemprop="datePublished" content="2021-03-13T22:36:52&#43;08:00" />
 <meta itemprop="dateModified" content="2021-04-05T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="398">
+<meta itemprop="wordCount" content="496">
 <meta itemprop="keywords" content="GitHub,Blog,Hugo,Utterances," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="搭建博客"/>
 <meta name="twitter:description" content="博客建站过程"/>
@@ -136,7 +136,7 @@
         <div class="post-category">
             <a href="/categories/%E6%8A%80%E6%9C%AF/"> 技术 </a>
             </div>
-          <span class="more-meta"> 约 398 字 </span>
+          <span class="more-meta"> 约 496 字 </span>
           <span class="more-meta"> 预计阅读 1 分钟 </span>
         
       </div>
@@ -152,7 +152,10 @@
 <p>在这两天的使用中，印象最深的还是 Hugo 的修改实时显示，非常方面，刷新页面都成了多此一举。</p>
 <p>评论模块。可选的非常多，对比了 Disqus、Valine、Utterances、Gitalk、Gitment。 最终选择 Utterances。Even 主题已经支持 Utterances，参照<a href="https://blog.eric7.site/2020/01/05/comment/">教程</a>，操作前4步就行，非常简单。</p>
 <p>&mdash; 2021-04-05 &mdash;</p>
-<p>个人域名 <a href="http://forgeyao.tech">forgeyao.tech</a> 上线。腾讯云上注册的，主要是便宜，10 年只要 ¥198。</p>
+<p>个人域名 <a href="https://forgeyao.tech">forgeyao.tech</a> 上线。腾讯云上注册的，主要是便宜，10 年只要 ¥198，还有免费证书支持。</p>
+<pre><code>注意：配置域名 DNS cname 到 forgeyao.github.io，然后在 GitHub 上设置个性域名后。
+还要在 config.toml 里把 baseURL 换成新域名，不然 sitemap.xml 会出现跨域无法访问。因为其他页面都是正常的，所以还有点难发现。
+</code></pre>
 <p>网站提交到 <a target="_blank" href="https://search.google.com/search-console">Google Search Console</a> 收录。（很难理解没自动收录，虽然是小网站）</p>
 <hr>
 <p>下面是还需要进一步完善。</p>
