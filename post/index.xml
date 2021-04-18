@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Forge Yao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Apr 2021 21:11:47 +0800</lastBuildDate><atom:link href="https://forgeyao.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Apr 2021 11:22:06 +0800</lastBuildDate><atom:link href="https://forgeyao.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《代码整洁之道 程序员的职业素养》读后感</title>
+      <link>https://forgeyao.tech/post/the-clean-coder/</link>
+      <pubDate>Sun, 11 Apr 2021 11:22:06 +0800</pubDate>
+      
+      <guid>https://forgeyao.tech/post/the-clean-coder/</guid>
+      <description>Bob 大叔关于程序员职业素养总结，非常值得一看。</description>
+    </item>
+    
     <item>
       <title>【译文】创业公司在社交隔离中机会与风险——用户注意力方法论</title>
       <link>https://forgeyao.tech/post/a-framework-for-consumer-attention/</link>
