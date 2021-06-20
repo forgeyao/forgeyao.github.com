@@ -6,7 +6,16 @@
     <description>Recent content in 技术 on Forge Yao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Apr 2021 11:22:06 +0800</lastBuildDate><atom:link href="https://forgeyao.tech/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 16:11:36 +0800</lastBuildDate><atom:link href="https://forgeyao.tech/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elasticsearch 概念介绍</title>
+      <link>https://forgeyao.tech/post/elasticsearch-concept/</link>
+      <pubDate>Sun, 20 Jun 2021 16:11:36 +0800</pubDate>
+      
+      <guid>https://forgeyao.tech/post/elasticsearch-concept/</guid>
+      <description>Elasticsearch 概念介绍</description>
+    </item>
+    
     <item>
       <title>《代码整洁之道 程序员的职业素养》读后感</title>
       <link>https://forgeyao.tech/post/the-clean-coder/</link>
