@@ -6,7 +6,16 @@
     <description>Recent content in 技术 on Forge Yao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jun 2021 16:11:36 +0800</lastBuildDate><atom:link href="https://forgeyao.tech/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 11:10:53 +0800</lastBuildDate><atom:link href="https://forgeyao.tech/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac 安装 Vim 插件 YouCompleteMe</title>
+      <link>https://forgeyao.tech/post/you-complete-me/</link>
+      <pubDate>Sat, 04 Sep 2021 11:10:53 +0800</pubDate>
+      
+      <guid>https://forgeyao.tech/post/you-complete-me/</guid>
+      <description>Mac 系统安装 Vim 代码补全插件 YouCompleteMe</description>
+    </item>
+    
     <item>
       <title>Elasticsearch 概念介绍</title>
       <link>https://forgeyao.tech/post/elasticsearch-concept/</link>
